@@ -18,7 +18,11 @@
       return out.toString();
     }catch(e){ return url; }
   }
-  document.querySelectorAll(".checkout-link").forEach(function(a){ a.href = tracking(c.checkoutUrl); });
+  var checkoutHref = tracking(c.checkoutUrl);
+  document.querySelectorAll(".checkout-link").forEach(function(a){
+    a.setAttribute("href", checkoutHref);
+    a.dataset.checkoutConfigured = "true";
+  });
 
 
 
