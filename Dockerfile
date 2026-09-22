@@ -1,1 +1,5 @@
-FROM nginx:alpine\nCOPY . /usr/share/nginx/html\nEXPOSE 80\n
+FROM nginx:alpine
+
+COPY . /usr/share/nginx/html
+
+EXPOSE 80
