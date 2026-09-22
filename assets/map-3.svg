@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 720">
+<defs>
+ <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f8e9c8"/><stop offset="1" stop-color="#e8cf98"/></linearGradient>
+ <linearGradient id="art" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6d4a28"/><stop offset=".5" stop-color="#b88445"/><stop offset="1" stop-color="#3b291b"/></linearGradient>
+</defs>
+<rect width="520" height="720" rx="14" fill="url(#paper)" stroke="#bb8f50" stroke-width="3"/>
+<rect x="16" y="16" width="488" height="688" rx="8" fill="none" stroke="#2c2418" stroke-width="2"/>
+<text x="260" y="55" text-anchor="middle" font-family="Georgia,serif" font-size="18" font-weight="700" fill="#17120c">70 CONSEJOS DE SALOMÓN</text>
+<text x="260" y="89" text-anchor="middle" font-family="Georgia,serif" font-size="27" font-weight="800" fill="#17120c">ELIJA BIEN A QUIEN PERMITE</text>
+<text x="260" y="115" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#403525">INFLUIR EN SU VIDA</text>
+<rect x="30" y="135" width="165" height="170" rx="4" fill="#18140e"/>
+<text x="112" y="166" text-anchor="middle" font-family="Georgia,serif" font-size="42" fill="#d5a54f">“</text>
+<text x="112" y="202" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#f5ebd8">La sabiduría</text>
+<text x="112" y="222" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#f5ebd8">ordena el camino</text>
+<text x="112" y="253" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#d5a54f">PROVERBIOS 13:20</text>
+<rect x="205" y="135" width="285" height="170" rx="4" fill="url(#art)"/>
+<circle cx="315" cy="220" r="45" fill="#20170f" opacity=".55"/><circle cx="380" cy="210" r="35" fill="#f2d9a4" opacity=".35"/>
+<path d="M230 270 Q300 185 360 260 T470 230" fill="none" stroke="#f0d6a0" stroke-opacity=".55" stroke-width="9"/>
+<rect x="400" y="145" width="76" height="145" rx="4" fill="#f4dfb7" opacity=".88"/>
+<text x="438" y="168" text-anchor="middle" font-family="Arial" font-size="9" font-weight="700" fill="#17120c">PRINCIPIOS</text>
+<g font-family="Arial" font-size="8" fill="#2f2618"><text x="411" y="190">1. Detente</text><text x="411" y="214">2. Escucha</text><text x="411" y="238">3. Compara</text><text x="411" y="262">4. Decide</text></g>
+<g transform="translate(30 325)" font-family="Arial">
+ <circle cx="54" cy="42" r="28" fill="#17140e"/><text x="54" y="49" text-anchor="middle" font-size="19" font-weight="700" fill="#d4a44c">1</text><circle cx="153" cy="42" r="28" fill="#17140e"/><text x="153" y="49" text-anchor="middle" font-size="19" font-weight="700" fill="#d4a44c">2</text><circle cx="252" cy="42" r="28" fill="#17140e"/><text x="252" y="49" text-anchor="middle" font-size="19" font-weight="700" fill="#d4a44c">3</text><circle cx="351" cy="42" r="28" fill="#17140e"/><text x="351" y="49" text-anchor="middle" font-size="19" font-weight="700" fill="#d4a44c">4</text><circle cx="450" cy="42" r="28" fill="#17140e"/><text x="450" y="49" text-anchor="middle" font-size="19" font-weight="700" fill="#d4a44c">5</text>
+ <g font-size="9" font-weight="700" fill="#17120c"><text x="54" y="83" text-anchor="middle">PARE</text><text x="153" y="83" text-anchor="middle">ORE</text><text x="252" y="83" text-anchor="middle">ESCUCHE</text><text x="351" y="83" text-anchor="middle">COMPARE</text><text x="450" y="83" text-anchor="middle">DECIDA</text></g>
+</g>
+<g transform="translate(30 438)">
+  <rect width="145" height="95" rx="5" fill="#f7e6c6" stroke="#b88a44"/><rect x="157" width="145" height="95" rx="5" fill="#f7e6c6" stroke="#b88a44"/><rect x="314" width="176" height="95" rx="5" fill="#f7e6c6" stroke="#b88a44"/>
+  <text x="12" y="23" font-family="Arial" font-size="10" font-weight="700">Qué enseña</text><text x="12" y="44" font-family="Arial" font-size="8">Busque consejo y</text><text x="12" y="58" font-family="Arial" font-size="8">no decida solo.</text>
+  <text x="169" y="23" font-family="Arial" font-size="10" font-weight="700">Cómo funciona</text><text x="169" y="44" font-family="Arial" font-size="8">Compare riesgos antes</text><text x="169" y="58" font-family="Arial" font-size="8">de actuar.</text>
+  <text x="326" y="23" font-family="Arial" font-size="10" font-weight="700">Aplicación práctica</text><text x="326" y="44" font-family="Arial" font-size="8">Escriba opciones y</text><text x="326" y="58" font-family="Arial" font-size="8">evalúe consecuencias.</text>
+</g>
+<g transform="translate(30 546)">
+  <rect width="220" height="92" rx="5" fill="#f7e6c6" stroke="#b88a44"/><rect x="240" width="250" height="92" rx="5" fill="#f7e6c6" stroke="#b88a44"/>
+  <text x="12" y="23" font-family="Arial" font-size="10" font-weight="700">Error común</text><text x="12" y="44" font-family="Arial" font-size="8">Confundir urgencia</text><text x="12" y="58" font-family="Arial" font-size="8">con dirección.</text>
+  <text x="252" y="23" font-family="Arial" font-size="10" font-weight="700">Revisión del consejo</text><text x="252" y="44" font-family="Arial" font-size="8">¿Qué decisión puede</text><text x="252" y="58" font-family="Arial" font-size="8">esperar un poco?</text>
+</g>
+<rect x="30" y="655" width="460" height="34" fill="#17140e"/><text x="260" y="678" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#d3a34b">REVISIÓN · PARE · ORE · ESCUCHE · COMPARE · DECIDA</text>
+</svg>

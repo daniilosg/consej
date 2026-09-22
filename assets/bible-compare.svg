@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 650">
+<defs><linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fffdf8"/><stop offset="1" stop-color="#eee6d5"/></linearGradient></defs>
+<rect width="520" height="650" rx="18" fill="#efe9de"/>
+<rect x="24" y="30" width="245" height="590" rx="10" fill="url(#paper)" stroke="#d9d2c4"/>
+<text x="55" y="72" font-family="Georgia" font-size="11" fill="#948a79">PROVERBIOS 11</text><text x="50" y="122" font-family="Georgia" font-size="32" font-weight="700" fill="#31291e">11</text>
+<g fill="#544c40" font-family="Georgia" font-size="10"><text x="90" y="118">A falta de consejo hace caer al pueblo,</text><text x="90" y="136">pero en la multitud de consejeros</text><text x="90" y="154">hay seguridad. La prudencia escucha,</text><text x="90" y="172">compara y decide con calma.</text></g>
+<g stroke="#c5bcad" stroke-width="4" stroke-linecap="round"><path d="M55 210h160"/><path d="M55 234h180"/><path d="M55 258h170"/><path d="M55 282h178"/><path d="M55 306h145"/><path d="M55 330h182"/><path d="M55 354h169"/><path d="M55 378h174"/><path d="M55 402h151"/><path d="M55 426h181"/><path d="M55 450h160"/><path d="M55 474h177"/></g>
+<rect x="250" y="30" width="246" height="590" rx="10" fill="#f5dfae" stroke="#c79647"/>
+<text x="373" y="72" text-anchor="middle" font-family="Georgia" font-size="16" font-weight="700">CONSEJO 01</text><text x="373" y="98" text-anchor="middle" font-family="Georgia" font-size="15" font-weight="700">NUNCA TOME UNA GRAN</text><text x="373" y="116" text-anchor="middle" font-family="Georgia" font-size="15" font-weight="700">DECISIÓN SOLO</text>
+<rect x="275" y="142" width="196" height="130" rx="5" fill="#6f4a25"/><circle cx="350" cy="210" r="44" fill="#2c2015" opacity=".65"/><path d="M290 250 Q350 165 450 238" fill="none" stroke="#e4c383" stroke-width="10" opacity=".7"/>
+<g fill="#17130d" font-family="Arial" font-size="10"><text x="278" y="305">1. Deténgase</text><text x="278" y="330">2. Ore y escuche</text><text x="278" y="355">3. Compare</text><text x="278" y="380">4. Decida</text></g>
+<rect x="275" y="414" width="196" height="130" rx="6" fill="#fff1cf" stroke="#c89b51"/><text x="290" y="440" font-family="Arial" font-size="10" font-weight="700">Aplicación práctica</text><g stroke="#b8aa93" stroke-width="4" stroke-linecap="round"><path d="M290 460h155"/><path d="M290 480h140"/><path d="M290 500h160"/></g>
+<circle cx="260" cy="323" r="20" fill="#fff" stroke="#d7d0c4"/><text x="260" y="330" text-anchor="middle" font-family="Arial" font-size="24" fill="#0fa859">→</text>
+<rect x="40" y="570" width="72" height="26" rx="13" fill="#2e2a25"/><text x="76" y="587" text-anchor="middle" font-family="Arial" font-size="9" font-weight="700" fill="#fff">EN LA BIBLIA</text><rect x="390" y="570" width="90" height="26" rx="13" fill="#2e2a25"/><text x="435" y="587" text-anchor="middle" font-family="Arial" font-size="9" font-weight="700" fill="#fff">EN EL MAPA</text>
+</svg>

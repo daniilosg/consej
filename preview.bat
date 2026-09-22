@@ -1,0 +1,1 @@
+@echo off\nstart http://localhost:8080\npython -m http.server 8080\n
