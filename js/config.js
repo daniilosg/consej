@@ -1,5 +1,5 @@
 window.SITE_CONFIG = {
   showBonuses: false,
   price: "$7,90",
-  checkoutUrl: "https://TU-CHECKOUT-AQUI.com"
+  checkoutUrl: "https://pay.hotmart.com/C107725940D"
 };
